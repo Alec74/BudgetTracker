@@ -7,9 +7,9 @@ The objectives to complete this Project include the following:
 * Withdrawals and deposits can be input offline and when online the transaction history will be added
 * Use a manifest, service worker, and indexdb to allow an application to functoin both online and offline
 
-# Online
+# Before Use
 ![image of webpage](images/demo1.png)
-# Offline
+# After Use
 ![image of webpage](images/demo2.png)
 
 
